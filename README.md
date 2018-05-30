@@ -10,5 +10,6 @@ Lab 6 - n^2 sorting
 Lab 7 - Stacks
 Lab 8 - Priority queue 
 Lab 9 - Linked lists
+
 Lab 10 - Recursion and bit manipulation
 
