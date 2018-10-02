@@ -2,7 +2,7 @@ import java.io.*;
 public class Lab1 {
 	public static void main(String args[]) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-    BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+    		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 		String s = br.readLine();
 		int total = 0;
 		for(int i = 0; i < s.length()-1; i++){
